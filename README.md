@@ -30,7 +30,7 @@
 </p>
 <h4 style="color: #01c8f0">Português:</h4>
 <p style="color: #fd7536">
-    Estou aprendendo sobre o mundo do desenvolvimento. Algo que eu realmente
+    Estou aprendendo sobre o mundo Dev. Algo que eu realmente
     gosto de fazer é front-end web, e quero estudar mais sobre isso. Nunca
     frequentei aulas de programação, então tudo o que sei é por pesquisas e
     ajudas. Esta página é apenas para diversão, não sou profissional ou algo do
