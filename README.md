@@ -10,7 +10,7 @@
     </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+mono&weight=500&pause=1000&color=01C8F0&random=false&width=435&lines=Hi+%3A;You+can+call+me+Andra;I'm+17+years+old;And+I'm+from+Bahia-Brazil;Nice+to+meet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+mono&weight=500&duration=2100&pause=5&color=01C8F0&random=false&width=435&lines=Hi!;You+can+call+me+Andra;I'm+17+years+old;And+I'm+from+Bahia-Brazil;Nice+to+meet+you)](https://git.io/typing-svg)
 
 <!-- Background -->
 
