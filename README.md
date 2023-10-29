@@ -57,7 +57,7 @@ Caminhar!"</b>
 
 <br><br>
 
-![Snake animation](https://github.com/Andra-sun/Andra-sun/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Andra-sun/Andra-sun/blob/master/github-contribution-grid-snake.svg)
 
 <br />
 
