@@ -5,19 +5,13 @@
     <a href="https://github.com/Andra-sun">
         <img
             height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=Andra-sun&show_icons=true&theme=mradical&include_all_commits=true&count_private=true"
+            src="https://github-readme-stats.vercel.app/api?username=Andra-sun&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
         />
     </a>
 </div>
 
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=30&pause=1000&color=01C8F0&center=true&vCenter=true&random=false&width=440&height=60&lines=Hi+%3A);You+can+call+me+Andra;I'm+17+years+old+;And+I'm+from+Bahia-Brazil;Nice+to+meet+you+)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"
-    ><img
-        src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=30&pause=1000&color=01C8F0&center=true&vCenter=true&random=false&width=440&height=60&lines=Hi+%3A);You+can+call+me+Andra;I'm+17+years+old+;And+I'm+from+Bahia-Brazil;Nice+to+meet+you+"
-        alt="Typing SVG"
-/></a>
 
 <!-- Background -->
 
