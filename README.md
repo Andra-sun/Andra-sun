@@ -11,7 +11,7 @@
 </div>
 
 [![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=30&pause=1000&color=01C8F0&center=true&vCenter=true&random=false&width=440&height=60&lines=Hi+%3A);You+can+call+me+Andra;I'm+17+years+old+;And+I'm+from+Bahia-Brazil;Nice+to+meet+you+)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=30&pause=1000&color=01C8F0&center=true&vCenter=true&random=false&width=440&height=60&lines=Hi+%3A)(https://git.io/typing-svg)
 
 <!-- Background -->
 
