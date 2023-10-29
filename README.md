@@ -19,7 +19,7 @@
 
 <h2 style="color: #ffb743">About me</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+mono&weight=500&duration=2100&pause=5&color=01C8F0&random=false&width=435&lines=Hi!;You+can+call+me+Andra;I'm+17+years+old;And+I'm+from+Bahia-Brazil;Nice+to+meet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+mono&weight=500&duration=2100&pause=5&color=933df9&random=false&width=435&lines=Hi!;You+can+call+me+Andra;I'm+17+years+old;And+I'm+from+Bahia-Brazil;Nice+to+meet+you)](https://git.io/typing-svg)
 
 <h4 style="color: #01c8f0">English:</h4>
 <p style="color: #fd7536">
