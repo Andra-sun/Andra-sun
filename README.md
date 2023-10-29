@@ -14,9 +14,9 @@
 <!-- Background -->
 
 <h2 style="color: #ffb743">About me</h2>
-<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+mono&weight=500&duration=2100&pause=5&color=01C8F0&random=false&width=435&lines=Hi!;You+can+call+me+Andra;I'm+17+years+old;And+I'm+from+Bahia-Brazil;Nice+to+meet+you)](https://git.io/typing-svg)
-<br>
+
 <h4 style="color: #01c8f0">English:</h4>
 <p style="color: #fd7536">
     I'm learning about the Dev world. Something I really enjoy doing is web
@@ -34,6 +34,7 @@
 </p>
 
 <img
+    align="center"
     src="https://i.pinimg.com/originals/59/f9/d7/59f9d7f408ab4b8d728df27fa1994df5.gif"
     width="75"
     style="display: block; margin: 0 auto"
@@ -51,7 +52,3 @@ Caminhar!"</b>
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andra-sun&layout=compact&langs_count=7&theme=radical"
     />
 </div>
-
-<br/>
-[![Andra's github activity
-graph](https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&bg_color=ffb743&color=01c8f0&line=933df9&point=fd7536&area=true&hide_border=true)]
