@@ -8,6 +8,11 @@
             src="https://github-readme-stats.vercel.app/api?username=Andra-sun&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
         />
     </a>
+    <a href="https://github.com/Andra-sun"></a>
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andra-sun&layout=compact&langs_count=7&theme=radical"
+    />
 </div>
 
 <!-- Background -->
@@ -43,13 +48,17 @@
         >"Alguns Pokemons podem voar pelos céus Mas eu vou Caminhar!
 Caminhar!"</b>
 </em>
+<img
+    align="center"
+    src="https://i.pinimg.com/originals/59/f9/d7/59f9d7f408ab4b8d728df27fa1994df5.gif"
+    width="75"
+    style="display: block; margin: 0 auto"
+/>
 
-<div align="center">
-    <a href="https://github.com/Andra-sun"></a>
-    <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andra-sun&layout=compact&langs_count=7&theme=radical"
-    />
-</div>
+<br><br>
+
+![Snake animation](https://github.com/Andra-sun/Andra-sun/blob/main/github-contribution-grid-snake.svg)
+
 <br />
+
 [![Andra-sun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&theme=tokyo-night)](https://github.com/Andra-sun/github-readme-activity-graph)
