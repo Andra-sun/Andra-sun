@@ -10,7 +10,7 @@
     </a>
 </div>
 
-![Typing
+[Typing
 SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=30&pause=1000&color=01C8F0&center=true&vCenter=true&random=false&width=440&height=60&lines=Hi+%3A)
 
 <!-- Background -->
@@ -52,5 +52,5 @@ Caminhar!"</b>
 </div>
 
 <br/>
-[![Andra's github activity
-graph](https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&bg_color=ffb743&color=01c8f0&line=933df9&point=fd7536&area=true&hide_border=true)](https://github.com/Andra-sun)
+[Andra's github activity
+graph](https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&bg_color=ffb743&color=01c8f0&line=933df9&point=fd7536&area=true&hide_border=true)
