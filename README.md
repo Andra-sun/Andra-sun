@@ -10,7 +10,6 @@
     </a>
 </div>
 
-
 <!-- Background -->
 
 <h2 style="color: #ffb743">About me</h2>
@@ -52,3 +51,5 @@ Caminhar!"</b>
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andra-sun&layout=compact&langs_count=7&theme=radical"
     />
 </div>
+<br />
+[![Andra-sun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&theme=tokyo-night)](https://github.com/Andra-sun/github-readme-activity-graph)
