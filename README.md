@@ -59,6 +59,3 @@ Caminhar!"</b>
 
 ![Snake animation](https://github.com/Andra-sun/Andra-sun/blob/master/github-contribution-grid-snake.svg)
 
-<br />
-
-[![Andra-sun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&theme=tokyo-night)](https://github.com/Andra-sun/github-readme-activity-graph)
