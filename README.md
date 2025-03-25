@@ -1,14 +1,9 @@
 <!-- banner -->
 <div align="center">
-<!-- <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" >
--->
+<!-- <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" > -->
+<!-- <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"> -->
 
-<img
-src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif"
-width="900">
-</div>
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"> -->
+<img src="assets/notebook.png">
 
 <hr>
 
@@ -27,9 +22,8 @@ width="900">
 ###
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andra-sun&locale=pt-br&hide_title=false&layout=compact&card_width=415&langs_count=5&theme=tokyonight&hide_border=true&order=5&border_radius=20" height="200" alt="languages graph"  />
-</div>
+
+<img  align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andra-sun&theme=2077" /> 
 
 ###
 
@@ -126,6 +120,10 @@ width="900"> -->
 
 ###
 
+<hr>
+
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andra-sun&layout=donut-vertical&theme=radical)
 <hr>
 
 ###
