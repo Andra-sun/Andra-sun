@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="assets/notebook.png" alt="banner notebook" />
+  <img src="assets/linkedinBanner.png" alt="banner notebook" />
 </div>
 
 <hr>
