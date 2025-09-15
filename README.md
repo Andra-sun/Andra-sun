@@ -7,11 +7,11 @@
 
 <!-- Sobre Mim -->
 <h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="30" /> Sobre mim
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="30" /> About Me
 </h3>
 
 <p align="left">
-  Olá! Pode me chamar de <strong>Andra</strong>. Gosto de explorar o desenvolvimento web, especialmente no <strong>front-end</strong>, onde dou vida a ideias através de design, interatividade e criatividade. Curiosa por natureza, estou sempre explorando novos horizontes na tecnologia.
+  Hello! You can call me <strong>Andra</strong>. I enjoy exploring web development, especially <strong>front-end</strong>, where I bring ideas to life through design, interactivity, and creativity. Naturally curious, I'm always exploring new horizons in technology
 </p>
 
 <hr>
@@ -26,7 +26,7 @@
 <h3 align="left">
 <img
 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
-alt="Exploding Head" width="40" height="40" />   Tecnologias:</h3>
+alt="Exploding Head" width="40" height="40" />Tech Stack</h3>
 
 ###
 
@@ -74,7 +74,7 @@ alt="Exploding Head" width="40" height="40" />   Tecnologias:</h3>
 
 <!-- Contato -->
 <h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="speech" width="30" /> Contato
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="speech" width="30" /> Connect with me
 </h3>
 
 <div align="left">
