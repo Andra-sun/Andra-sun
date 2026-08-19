@@ -11,7 +11,7 @@
 </h3>
 
 <p align="left">
-  Hello! You can call me <strong>Andra</strong>. I enjoy exploring web development, especially <strong>front-end</strong>, where I bring ideas to life through design, interactivity, and creativity. Naturally curious, I'm always exploring new horizons in technology
+  Hello! I enjoy exploring web development, especially <strong>front-end</strong>, where I bring ideas to life through design, interactivity, and creativity. Naturally curious, I'm always exploring new horizons in technology
 </p>
 
 <hr>
